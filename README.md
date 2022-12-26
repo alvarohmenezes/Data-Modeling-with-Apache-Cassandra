@@ -1,4 +1,4 @@
-#Project: Data Modeling with Cassandra
+# Project: Data Modeling with Cassandra
 This is the second project of Udacity - the Data Engineering Nanodegree.
 
 ## Introduction
